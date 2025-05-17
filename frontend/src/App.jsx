@@ -7,6 +7,7 @@ import Explore from "./pages/Explore";
 
 import Developer from "./pages/Developer";
 import Dashboard from "./pages/Dashboard";
+import Settings from "./pages/Settings";
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
          <Route path="/developer" element={<Developer />} />
          <Route path="/dashboard" element={<Dashboard />} />
          <Route path="/explore" element={<Explore />} />
+          <Route path="/setting" element={<Settings />} />
        </Routes>
        <Footer />
      </Router>
