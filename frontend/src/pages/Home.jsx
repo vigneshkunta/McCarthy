@@ -1,3 +1,20 @@
+// home
+// page 
+// -
+// old 
+// version
+// 
+// new 
+// home 
+// page 
+// after 
+// making 
+// changes 
+// in 
+// landing
+// page 
+// 
+// 
 import React from "react";
 
 import {
